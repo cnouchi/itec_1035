@@ -72,6 +72,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# JavaScript
+.js
+
 # pyenv
 .python-version
 
